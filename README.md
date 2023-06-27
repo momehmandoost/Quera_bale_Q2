@@ -16,4 +16,4 @@ and finally start project with:
 
     npm start
 
-Make sure you have installed NodeJS and npm installed
+Make sure you have installed NodeJS and npm 
